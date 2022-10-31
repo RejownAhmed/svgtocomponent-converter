@@ -1,3 +1,0 @@
-<template>
-	<g id="chevron-circle-down-Regular"><path id="chevron-circle-down-Regular-2" data-name="chevron-circle-down-Regular" class="cls-1" d="M12,2.25A9.75,9.75,0,1,0,21.75,12,9.761,9.761,0,0,0,12,2.25Zm0,18A8.25,8.25,0,1,1,20.25,12,8.259,8.259,0,0,1,12,20.25Zm3.53-9.78a.749.749,0,0,1,0,1.06l-3,3a.748.748,0,0,1-1.06,0l-3-3a.75.75,0,0,1,1.06-1.06L12,12.939l2.47-2.469A.749.749,0,0,1,15.53,10.47Z"/></g>	
-</template>
